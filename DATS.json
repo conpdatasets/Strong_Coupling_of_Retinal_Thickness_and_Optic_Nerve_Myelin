@@ -59,15 +59,16 @@
                 "value": "KB"
             },
             "access": {
-                "landingPage": "https://zenodo.org/record/22019074", 
+                "landingPage": "https://zenodo.org/record/22019074",
                 "authorizations": [
-                      {
+                    {
                         "value": "public"
-                      }
-                ]
+                    }
+                ],
+                "accessURL": "https://zenodo.org/records/22019074/files/Dataset_10.55458_NeuroLibre_00050_01a703.zip?download=1"
             },
             "formats": [
-                "N/A"
+                "ZIP"
             ]
         }
     ],
